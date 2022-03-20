@@ -99,10 +99,10 @@
     <ul class="menu-principal">
         <h3>Navegação</h3>
         <li><a href="https://gelinc.github.io/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/sobre">Sobre nós</a></li>
-        <li><a href="{{ site.baseurl }}/membros">Membros </a></li>
-	<li><a href="{{ site.baseurl }}/tags#Notícias">Notícias </a></li>
-        <li class="header-item"><a href="{{ site.baseurl }}/categorias">Categorias</a>
+        <li><a href="{{ site.baseurl }}/about">About</a></li>
+        <li><a href="{{ site.baseurl }}/members">Members </a></li>
+	<li><a href="{{ site.baseurl }}/tags#News">News </a></li>
+        <li class="header-item"><a href="{{ site.baseurl }}/categories">Categories</a>
             <ul class="header-submenu">
               {% for item in (0..site.categories.size) %}{% unless forloop.last %}
                 {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
