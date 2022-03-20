@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre nós 
-permalink: /sobre
+permalink: /about
 comments: false
 image: assets/images/ICC.jpg
 imageshadow: true
