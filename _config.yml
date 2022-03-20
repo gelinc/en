@@ -5,7 +5,7 @@ description: "Grupo de Estudos em Linguística Computacional | Blog do grupo de 
 logo: 'assets/images/GELinC_simples.png'
 favicon: 'assets/images/GELinC_simples.png'
 baseurl: 'https://gelinc.github.io/en'
-google_analytics: 'G-SQ4ED0JHVM'
+google_analytics: ''
 disqus: 'gelinc'
 mailchimp-list: 'https://gmail.us5.list-manage.com/subscribe/post?u=2219e9e3f830fe06a3572e5ab&amp;id=84a8514219'
 include: ["_pages"]
